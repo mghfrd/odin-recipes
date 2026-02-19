@@ -36,4 +36,14 @@ After completing this project, I will have demonstrated the following skills:
 - Building projects step by step (iterations)
 - Documenting my learning journey
 
+## Image Credits
+Images used in this project are sourced from Wikimedia Commons and are available under Creative Commons licenses:
+
+- Sate Ayam Madura – https://commons.wikimedia.org/wiki/File:Sate_ayam_madura.jpg  
+- Pelecing Kangkung – https://commons.wikimedia.org/wiki/File:Pelecing_kangkung.JPG  
+- Sambal Bawang – https://commons.wikimedia.org/wiki/File:SAMBAL_BAWANG.jpg  
+
+All images belong to their respective creators and are used for educational purposes.
+
+
 I will recall all the things that I've learned like how to make semantic HTML, using Git and be more familiar with the command line because actually until now sometimes I forget the commands. But well, that's actually okay because I'm still learning. Soon I will get used to it and will be good at it as long as I keep practicing and just believe in myself.
